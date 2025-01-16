@@ -1,0 +1,5 @@
+name: ai-service-connection
+type: azure_ai_services
+endpoint: ""
+api_key: ""
+ai_services_resource_id: ""
